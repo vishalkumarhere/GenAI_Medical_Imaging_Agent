@@ -2,6 +2,8 @@
 
 A powerful AI-driven medical image analysis tool built with Streamlit and Google's Gemini AI model. This application provides detailed analysis of medical images including X-rays, MRIs, CT scans, and ultrasounds with comprehensive diagnostic insights.
 
+Live demo - https://genaimedicalimagingagent.streamlit.app/
+
 ## Features ✨
 
 - **Multi-Modal Image Analysis**: Supports various medical imaging formats (X-ray, MRI, CT, Ultrasound, etc.)
@@ -25,7 +27,7 @@ A powerful AI-driven medical image analysis tool built with Streamlit and Google
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vishalkumarhere/GenAI_Medical_Imaging_Agent
    cd "GenAI medical imaging agent"
    ```
 
